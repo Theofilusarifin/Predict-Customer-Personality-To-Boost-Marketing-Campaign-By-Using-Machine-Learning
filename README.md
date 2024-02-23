@@ -4,6 +4,8 @@
 
 In today's competitive business landscape, understanding customer behavior is paramount for the success of any marketing campaign. By gaining insights into the unique personality traits and preferences of customers, companies can tailor their marketing strategies to effectively engage with their target audience and boost conversion rates.
 
+[Documentation Details](https://github.com/Theofilusarifin/Predict-Customer-Personality-To-Boost-Marketing-Campaign-By-Using-Machine-Learning/blob/main/documentation.pdf)
+
 ## Load Dataset
 
 The dataset comprises 2240 records and 29 features, including numerical and categorical data types.
